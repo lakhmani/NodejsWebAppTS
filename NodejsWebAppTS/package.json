@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-web-app-ts",
+  "version": "0.0.0",
+  "description": "NodejsWebAppTS",
+  "main": "app.js",
+  "author": {
+    "name": "register"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
